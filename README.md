@@ -66,7 +66,7 @@ input("Hello world!")
 
 ### <p align="center">🎯 Levels 🎯</p>
 
-<p align="center"><strong><i>This section shows the "levels" of this project!</i></strong</p>
+<p align="center"><strong><i>This section shows the "levels" of this project, from 0/5 ⚪ to 5/5 ⚫!</i></strong</p>
 <p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
 
 <br><br>
