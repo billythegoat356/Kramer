@@ -59,7 +59,7 @@ input("Hello world!")
 <br>
 <strong>- Can't compile the file to exe (since it's a PYC file) but you can compile the PY file in the logs folder</strong>
 <br>
-<strong>- Can be deobfuscated using a PYC decompilator, but not everyone can do it</strong>
+<strong>- Can be deobfuscated using a PYC decompilator, but it requires a certain knowledge</strong>
 <br><br>
 
 -----
