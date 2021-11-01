@@ -1,21 +1,23 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/416417012/341bc39d-cabd-4bff-8702-d84b1b8cbe0e", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">🐸 Kramer 🐸</p>
 
 <br><br>
 <p align="center">
 <strong>
-text
+Kramer is a next level obfuscation tool written in Python3 allowing you to obfuscate
 <br>
-text
+your Python3 code easily and securely. It uses <a href="https://github.com/billythegoat356/Berserker">Berserker</a>'s obfuscation but in a more advanced way
+<br>
+making your code nearly impossible to be deobfuscated.
 <br><br><br>
-<img src="link" width="750", height="400">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/904851557311455252/unknown.png" width="850", height="300">
 </strong>
 </p>
 <br>
@@ -25,85 +27,52 @@ text
 ### <p align="center">📋 Examples 📋</p>
 
 <br><br>
-`randomClass.randomFunc(randomArg)` -> `hello world!`
-<br><br>
-`randomClass2.randomFunc2(randomArg2)` -> `hey! how are you?`
-<br>
-
-OR
-
-<br><br>
 **Unobfuscated**:<br>
-`unobfuscated code`
+```python3
+input("Hello world!")
+```
 <br><br>
 **Obfuscated**:<br>
-`obfuscated code`
+```python3
+�������������������������������������������������������������
+```
 <br>
-
------
-
-### <p align="center">📚 Documentation 📚</p>
-
-<p align="center"><strong><i>If you encounter any problem while using this program, create an issue on this repository and I will help you.
-<br>
-Also, please use this program only for educational purposes, and don't forget; great power comes with great responsibility.</i></strong>
-</p>
- 
-<br><br>
-
-<p align="center">
-<img src="link", width="500", height="500">  
-</p>
-  
-<br><br>
-
-First of all, you have to install Python3 AND 'pip'. Then run the `setup.bat` file.
-It will install you the necessary libraries for the program.  
-  
-name contains two parts:
-  - Client
-  - Server (hosted by me, don't touch it unless you are a developper)
-  
-**1: Client**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
-
-<br><br>
- 
-**2: Server**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
- 
-<br><br>
 
 -----
 
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ This time you can be sure skids won't be able to get your code</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Very fast execution</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Easy to use</strong>
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/416417012/341bc39d-cabd-4bff-8702-d84b1b8cbe0e" width="250", height="250">
 </p>
 
 <br>
-<strong>- minus</strong>
+<strong>- The result file is not a python file (.PY) but a compiled python file (.PYC)</strong>
 <br>
-<strong>- minus</strong>
+<strong>- Can't compile the file to exe (since it's a PYC file) but you can compile the PY file in the logs folder</strong>
 <br>
-<strong>- minus</strong>
+<strong>- Can be deobfuscated using a PYC decompilator, but not everyone can do it</strong>
+<br><br>
+
+-----
+
+### <p align="center">🎯 Levels 🎯</p>
+
+<p align="center"><strong><i>This section shows the "levels" of this project!</i></strong</p>
+<p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
+
+<br><br>
+* Time: 🟢
+* Complexity: 🟣
+* Service: 🔴
 <br><br>
 
 -----
@@ -113,35 +82,15 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
+* Complexify the obfuscation
 <br><br>
 
------
-
-### <p align="center">⚠️ Restrictions ⚠️</p>
-
-<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong</p>
-
-<br><br>
-* 1
-* 2
-<br><br>
-
------
-  
-### <p align="center">🎨 Contributors 🎨</p>
-
-<br><br>
-* [user](link) | Part
-<br><br>
-  
 -----
   
 ### <p align="center">🪓 Deobfuscators 🪓</p>
 
 <br><br>
-* [text](link) by [user](link) | Language
+* [Kramered](https://github.com/HideakiAtsuyo/Kramered) by [HideakyAtsuyo](https://github.com/HideakiAtsuyo/) | Language (soon)
 <br><br>
   
 -----
