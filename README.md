@@ -55,11 +55,11 @@ input("Hello world!")
 </p>
 
 <br>
-<strong>- The result file is not a python file (.PY) but a compiled python file (.PYC)</strong>
+<strong>- The result file is not a python file (.PY) but a compiled python file (.PYC) renamed to .PY</strong>
 <br>
-<strong>- Can't compile the file to exe (since it's a PYC file) but you can compile the PY file in the logs folder</strong>
+<strong>- Can't compile the file to exe (since it's basically a PYC file) but you can compile the PY file in the logs folder</strong>
 <br>
-<strong>- Can be deobfuscated using a PYC decompilator, but it requires a certain knowledge</strong>
+<strong>- Can be deobfuscated using a PYC decompilator then some Python algorithmic, but it requires a certain knowledge</strong>
 <br><br>
 
 -----
