@@ -188,7 +188,6 @@ def main():
 
 
     file = Write.Input("File -> ", Colors.red_to_yellow, interval=0.005)
-    file = file.split('\\')[-1]
 
     if not file.strip() or not isfile(file):
         Colorate.Error("This file does not exist!")
@@ -210,6 +209,8 @@ def main():
         
 
     content = open(file, encoding='utf-8').read()
+
+    file = file.split('\\')[-1]
     file = file.removesuffix(".py") + "-obf.py" # hello hideaki
 
     content = berserk(content=content, key=key)
