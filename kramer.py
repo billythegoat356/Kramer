@@ -221,9 +221,6 @@ def main():
     if key < 3 or key > 1000000:
         Colorate.Error("Invalid key!")
         return
-        
-
-    content = open(file, encoding='utf-8').read()
 
 
     file = file.removesuffix(".py") + "-obf.py" # hello hideaki
