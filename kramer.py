@@ -5,15 +5,17 @@ from random import choice, randint, shuffle
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
 from os.path import isfile
 from py_compile import compile
-from os import listdir, mkdir, remove, rmdir, rename, chdir
+from os import listdir, mkdir, remove, rmdir, rename, chdir, name
 from shutil import move, copy, rmtree
 from time import sleep
 from binascii import hexlify
 
 
-path = '/'.join(__file__.split('\\')[:-1])
-chdir(path)
-
+if name == 'nt':
+     path = '/'.join(__file__.split('\\')[:-1])
+     chdir(path)
+    
+    
 strings = "abcdefghijklmnopqrstuvwxyz0123456789"  # ne pas changer svp
 
 
