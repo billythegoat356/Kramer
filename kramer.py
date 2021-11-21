@@ -90,20 +90,8 @@ def berserk(content: str, key: int) -> str:
     _names_ = ["self." + name for name in _names_]
     shuffle(_names_)
 
-    n_1 = _names_[0]
-    n_2 = _names_[1]
-    n_3 = _names_[2]
-    n_4 = _names_[3]
-    n_5 = _names_[4]
-    n_6 = _names_[5]
-    n_7 = _names_[6]
-    n_8 = _names_[7]
-    n_9 = _names_[8]
-    n_10 = _names_[9]
-    n_11 = _names_[10]
-    n_12 = _names_[11]
-
-
+    for k in range(12):
+        globals()[f'n_{str(k+1)}'] = _names_[k]
     
 
     _types_ = ("str","float","bool","int")
