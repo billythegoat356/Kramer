@@ -12,8 +12,8 @@ from binascii import hexlify
 
 
 if name == 'nt':
-     path = '/'.join(__file__.split('\\')[:-1])
-     chdir(path)
+    path = '/'.join(__file__.split('\\')[:-1])
+    chdir(path)
     
     
 strings = "abcdefghijklmnopqrstuvwxyz0123456789"  # ne pas changer svp
@@ -77,7 +77,7 @@ def ran_int(min: int = 3, max: int = 1000000):
     return randint(min, max+1)
 
 
-def berserk(content: str, key: int) -> str:
+def kramer(content: str, key: int) -> str:
 
     _content_ = Key.encrypt(content, key=key)
 
@@ -194,10 +194,10 @@ def main():
     else:
         file = _file
 
-    with open(_file, 'r', errors='ignore') as f:
+    with open(_file, 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
 
-    with open(file, 'w', errors='ignore') as f:
+    with open(file, 'w', encoding='utf-8', errors='ignore') as f:
         f.write(content)
 
     # print()
@@ -217,7 +217,7 @@ def main():
 
     file = file.removesuffix(".py") + "-obf.py" # hello hideaki
 
-    content = berserk(content=content, key=key)
+    content = kramer(content=content, key=key)
     with open(file, 'w', encoding='utf-8') as f:
         f.write(content)
 
