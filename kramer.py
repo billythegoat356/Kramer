@@ -1,9 +1,12 @@
 # by billythegoat356
 
-from genericpath import isdir
+# https://github.com/billythegoat356/Kramer
+
+
+
 from random import choice, randint, shuffle
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
-from os.path import isfile
+from os.path import isfile, isdir
 from py_compile import compile
 from os import listdir, mkdir, remove, rmdir, rename, chdir, name
 from shutil import move, copy, rmtree
