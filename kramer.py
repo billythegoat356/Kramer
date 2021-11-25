@@ -182,7 +182,7 @@ def main():
     print("\n"*5)
 
 
-    _file = Write.Input("File -> ", Colors.red_to_yellow, interval=0.005)
+    _file = Write.Input("Drag your Python file -> ", Colors.red_to_yellow, interval=0.005)
 
 
 
