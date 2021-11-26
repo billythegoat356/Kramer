@@ -14,7 +14,7 @@ from time import sleep
 from binascii import hexlify
 
 
-if name == 'nt':
+if name == 'nt' and __file__:
     path = '/'.join(__file__.split('\\')[:-1])
     chdir(path)
     
