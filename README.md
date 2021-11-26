@@ -72,7 +72,7 @@ input("Hello world!")
 <p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
 
 <br><br>
-* Time: 🟢
+* Time: 🔴
 * Complexity: 🟣
 * Service: 🔴
 <br><br>
