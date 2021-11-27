@@ -14,9 +14,6 @@ from time import sleep
 from binascii import hexlify
 
 
-if name == 'nt' and __file__:
-    path = '/'.join(__file__.split('\\')[:-1])
-    chdir(path)
     
     
 strings = "abcdefghijklmnopqrstuvwxyz0123456789"  # ne pas changer svp
