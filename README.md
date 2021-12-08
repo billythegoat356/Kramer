@@ -86,14 +86,6 @@ input("Hello world!")
 <br><br>
 * Complexify the obfuscation
 <br><br>
-
------
-  
-### <p align="center">🪓 Deobfuscators 🪓</p>
-
-<br><br>
-* [Kramered](https://github.com/HideakiAtsuyo/Kramered) by [HideakyAtsuyo](https://github.com/HideakiAtsuyo/) | Language (soon)
-<br><br>
   
 -----
 
