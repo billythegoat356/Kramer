@@ -88,6 +88,16 @@ input("Hello world!")
 <br><br>
   
 -----
+  
+### <p align="center">🪓 Deobfuscators 🪓</p>
+  
+<p align="center"><strong>I did not check the code of the following repositories, use them at your own risks.</strong></p>
+
+<br><br>
+* [Kramered](https://github.com/HideakiAtsuyo/Kramered) by [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | C#
+<br><br>
+  
+-----
 
 ### <p align="center">📌 Disclaimer 📌</p>
 
