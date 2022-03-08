@@ -215,7 +215,8 @@ def main():
         return
 
 
-    file = file.removesuffix(".py") + "-obf.py" # hello hideaki
+    file = file[:f.rindex(".py")] # str.removesuffix is not a function.
+    file = file + "-obf.py" # hello hideaki
 
     content = kramer(content=content, key=key)
     with open(file, 'w', encoding='utf-8') as f:
