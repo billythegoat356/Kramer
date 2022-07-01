@@ -11,6 +11,8 @@
 <br><br>
 <p align="center">
 <strong>
+First of all, if you're looking for the <strong>BEST</strong> fully Python3 obfuscator, you should check <a href="https://github.com/billythegoat356/Hyperion">Hyperion</a>!
+<br><br>
 Kramer is a next level obfuscation tool written in Python3 allowing you to obfuscate
 <br>
 your Python3 code easily and securely. It uses <a href="https://github.com/billythegoat356/Berserker">Berserker</a>'s obfuscation but in a more advanced way
@@ -86,17 +88,7 @@ input("Hello world!")
 <br><br>
 * Complexify the obfuscation
 <br><br>
-  
------
-  
-### <p align="center">🪓 Deobfuscators 🪓</p>
-  
-<p align="center"><strong>I did not check the code of the following repositories, use them at your own risks.</strong></p>
 
-<br><br>
-* [Kramered](https://github.com/HideakiAtsuyo/Kramered) by [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | C#
-<br><br>
-  
 -----
 
 ### <p align="center">📌 Disclaimer 📌</p>
