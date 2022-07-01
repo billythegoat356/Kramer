@@ -11,7 +11,7 @@
 <br><br>
 <p align="center">
 <strong>
-First of all, if you're looking for the <strong>BEST</strong> fully Python3 obfuscator, you should check <a href="https://github.com/billythegoat356/Hyperion">Hyperion</a>!
+First of all, if you're looking for the <strong>BEST</strong> fully Python obfuscator, you should check <a href="https://github.com/billythegoat356/Hyperion">Hyperion</a>!
 <br><br>
 Kramer is a next level obfuscation tool written in Python3 allowing you to obfuscate
 <br>
